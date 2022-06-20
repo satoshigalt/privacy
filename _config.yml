@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Satoshi Galt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Recovering from a boating accident"
+  bio              : "Advocate for Privacy and Self Sufficiency."
+  location         : "Boating Accident"
   email            :
   links:
     - label: "Email"
