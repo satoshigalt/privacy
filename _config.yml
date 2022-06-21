@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Privacy and other important topics"
+title                    : "Privacy and Other Important Topics"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Satoshi Galt"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Satoshi Galt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Advocate for Privacy and Self Sufficiency."
+  bio              : "Advocate for Privacy and Liberty."
   location         : "Boating Accident"
   email            :
   links:
